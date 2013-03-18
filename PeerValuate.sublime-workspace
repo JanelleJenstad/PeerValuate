@@ -1,0 +1,425 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rev",
+				"reviewers"
+			],
+			[
+				"revie",
+				"review"
+			],
+			[
+				"subj",
+				"subject"
+			],
+			[
+				"review",
+				"reviewers"
+			],
+			[
+				"personR",
+				"personRepository"
+			],
+			[
+				"the",
+				"thenIWillBeTheSubjectOfTheReviewItem"
+			],
+			[
+				"then",
+				"thenANewReviewItemWillBeAssignedToTheContacts"
+			],
+			[
+				"whe",
+				"whenIAskContactsToReviewMe"
+			],
+			[
+				"gi",
+				"givenIAmLoggedIn"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test/test_ask_for_review_from_my_contacts.rb",
+			"settings":
+			{
+				"buffer_size": 1577,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/Reviews/request_review_handler.rb",
+			"settings":
+			{
+				"buffer_size": 421,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/Reviews/request_review_command.rb",
+			"settings":
+			{
+				"buffer_size": 193,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/Reviews/review.rb",
+			"settings":
+			{
+				"buffer_size": 133,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "DL is deprecated, please use Fiddle\nFor a better pry experience, please use ansicon: http://adoxa.3eeweb.com/ansicon/\n[1] pry(main)> 1+1\n=> 2\n[2] pry(main)> require \"lib/Reviews/review\"\nLoadError: cannot load such file -- lib/Reviews/review\nfrom C:/Ruby200-x64/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:45:in 'require'\n[3] pry(main)> require \"c:/projects/ruby/review/lib/Reviews/review\"\n=> true\n[4] pry(main)> Review.new.reviewers\n=> nil\n[5] pry(main)> ",
+			"settings":
+			{
+				"buffer_size": 469,
+				"line_ending": "Windows",
+				"name": "*REPL* [ruby]",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 80.0,
+		"selected_items":
+		[
+			[
+				"repl",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"repl ru",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"repl rub",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Projects/ruby/Review/lib/People/person_repository.rb",
+		"/C/Projects/ruby/Review/lib/Reviews/review.rb",
+		"/C/Projects/ruby/Review/lib/Reviews/request_review_handler.rb",
+		"/C/Projects/ruby/Review/lib/Reviews/review_repository.rb",
+		"/C/Projects/ruby/Review/lib/People/person.rb",
+		"/C/Projects/ruby/Review/lib/entity.rb",
+		"/C/Projects/ruby/Review/lib/command.rb",
+		"/C/Projects/ruby/Review/lib/review_repository.rb",
+		"/C/Projects/ruby/Review/lib/Reviews/request_review_command.rb",
+		"/C/Tools/Sublime/Data/Packages/User/Base File.sublime-settings",
+		"/C/Tools/Sublime/Data/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/C/Projects/ruby/Review/features/ask_contacts_for_review.feature",
+		"/C/Projects/ruby/Review/test/test_calc.rb",
+		"/C/Tools/Sublime/Data/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/C/Projects/ruby/Review/extension/enumerable_ext.rb",
+		"/C/Projects/ruby/Review/test/test_enumerable_extensions.rb",
+		"/C/Projects/ruby/Review/test/test_ask_for_review_from_my_contacts",
+		"/C/Projects/ruby/Review/.autotest",
+		"/C/Projects/ruby/Review/test/.autotest",
+		"/C/Projects/ruby/Review/test/test.rb",
+		"/C/Projects/ruby/Review/test.rb",
+		"/C/Tools/Sublime/Data/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Tools/Sublime/Data/Packages/SublimeREPL/config/Ruby/Main.sublime-menu",
+		"/C/Tools/Sublime/Data/Packages/SublimeREPL/config/Ruby/pry_repl.rb",
+		"/C/Tools/Sublime/Data/Packages/SublimeREPL/SublimeREPL.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"personId"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"subjectId"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test/test_ask_for_review_from_my_contacts.rb",
+					"settings":
+					{
+						"buffer_size": 1577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1325,
+								1325
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 426.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/Reviews/request_review_handler.rb",
+					"settings":
+					{
+						"buffer_size": 421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/Reviews/request_review_command.rb",
+					"settings":
+					{
+						"buffer_size": 193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								193,
+								193
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/Reviews/review.rb",
+					"settings":
+					{
+						"buffer_size": 133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"settings":
+					{
+						"buffer_size": 469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								469,
+								469
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "ruby",
+							"repl_id": "2f760c02c7d34c528032936bb4c7a17f",
+							"smart_indent": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 28.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.762472885033,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rrc",
+				"lib/Reviews/request_review_command.rb"
+			],
+			[
+				"pers",
+				"lib/People/person.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true
+}
